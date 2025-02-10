@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d0efd51c3cf05c4e8146a7bf8bb8925, type: 3}
+  m_Name: BoardData
+  m_EditorClassIdentifier: 
+  cell: {fileID: 8520358192524734758, guid: a4d431fffa9fe444584bee6ed9f5963d, type: 3}
+  whiteRedPropetry: 255
+  whiteGreenPropetry: 255
+  whiteBluePropetry: 255
+  whiteAlphaProperty: 0.732
+  blackRedPropetry: 255
+  blackGreenPropetry: 255
+  blackBluePropetry: 255
+  blackAlphaProperty: 0.5
+  freeRedProperty: 0
+  freeGreenProperty: 188
+  freeBlueProperty: 0
+  freeAlphaProperty: 0.871
+  enemyRedProperty: 179
+  enemyGreenProperty: 0
+  enemyBlueProperty: 0
+  enemyAlphaProperty: 0.593
+  checkRedProperty: 50
+  checkGreenProperty: 0
+  checkBlueProperty: 0
+  checkAlphaProperty: 0.443
+  whitePawn: {fileID: 7486141063851105143, guid: d98bf617d304c3543b36a259c11581f8, type: 3}
+  whiteKnight: {fileID: 382488146541078373, guid: fa69eb71d3d85524289dc9f5ed1a2603, type: 3}
+  whiteBishop: {fileID: 4102834202146092068, guid: 7ce81ab642ca0044a862b91e4bf2372a, type: 3}
+  whiteRook: {fileID: 7810464568786056395, guid: 0468481e9d8cd8743ade2285ac252220, type: 3}
+  whiteQueen: {fileID: 6367647305562816485, guid: 3f4bc2fcde2342f4dbb5319f61c035a6, type: 3}
+  whiteKing: {fileID: 5747226373221380609, guid: efde63fc0966a0340a009d3454a8e34f, type: 3}
+  blackPawn: {fileID: 5545974437580763595, guid: c3fb944f30b43fa46aa3880dd8093571, type: 3}
+  blackKnight: {fileID: 8014021546181767127, guid: 37109ab1ec6831742b723e4f84b0768a, type: 3}
+  blackBishop: {fileID: 5868586175245915284, guid: 842af64fa0c5fe44881c9aab28b15f26, type: 3}
+  blackRook: {fileID: 2914208283000329358, guid: 08416fd0b297d134f84aa90de317e1db, type: 3}
+  blackQueen: {fileID: 4703753322397513005, guid: d0b97f6ef73dad34ea0f8a4c0b4c5d80, type: 3}
+  blackKing: {fileID: 487016519566707930, guid: 7cd49aa3d6a82bc41954e8c0b41fc5ab, type: 3}
+  pawnPick:
+    queenSpriteBlack: {fileID: 951935986, guid: 1ab7514289dcc2a4da865c06e831af8c, type: 3}
+    rookSpriteBlack: {fileID: -159065296, guid: 1ab7514289dcc2a4da865c06e831af8c, type: 3}
+    bishopSpriteBlack: {fileID: 121837609, guid: 1ab7514289dcc2a4da865c06e831af8c, type: 3}
+    knightSpriteBlack: {fileID: 1301824177, guid: 1ab7514289dcc2a4da865c06e831af8c, type: 3}
+    queenSpriteWhite: {fileID: -736512315, guid: 1ab7514289dcc2a4da865c06e831af8c, type: 3}
+    rookSpriteWhite: {fileID: 732490527, guid: 1ab7514289dcc2a4da865c06e831af8c, type: 3}
+    bishopSpriteWhite: {fileID: -1304142679, guid: 1ab7514289dcc2a4da865c06e831af8c, type: 3}
+    knightSpriteWhite: {fileID: 1928686038, guid: 1ab7514289dcc2a4da865c06e831af8c, type: 3}
